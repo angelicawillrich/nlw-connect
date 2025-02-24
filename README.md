@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+To run this project properly, make sure to start the API available at https://github.com/rocketseat-education/nlw-connect-node.
+
+Then, run the development server:
 
 ```bash
 npm run dev
